@@ -1,5 +1,8 @@
 # Kakuro
 
+**If you have trouble with watching ipynb online, click [Kakuro-GA](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/Kakuro-solver-with-GA-and-GP/blob/master/kakuro_ga.html) or [Kakuro-GP](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/Kakuro-solver-with-GA-and-GP/blob/master/kakuro_gp.html) to see code with describtion**  
+
+
 General
 
 Kakuro is a kind of logic puzzle that is often referred to as a mathematical transliteration of
