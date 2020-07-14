@@ -46,17 +46,17 @@ and genetic programming and find out how much they will help us in cutting this 
 
 Terminology
 
-The size of the playing field (grid) - the number of rows and the number of columns.
-White cells - cells of the playing field, which must be filled in with digits from 1 to 9.
-Black cells - cells of the playing field which cannot be changed.
+The size of the playing field (grid) - the number of rows and the number of columns.  
+White cells - cells of the playing field, which must be filled in with digits from 1 to 9.  
+Black cells - cells of the playing field which cannot be changed.  
 Clue cells - cells of the playing field that contain two numbers, the first number is the sum of
 the elements of the group horizontally, the second number is the sum of the elements of the
-group vertically.
-Horizontal group - a continuous sequence of white cells horizontally.
-Vertical group - a continuous sequence of white cells vertically.
-Group sum - the sum of all elements of one group.
-Duplicate values - elements that occur in the same group more than once.
-GA light version algorithm with default parameters.
-GA pro version - algorithm with optimal parameters obtained during the experiment.
+group vertically.  
+Horizontal group - a continuous sequence of white cells horizontally.  
+Vertical group - a continuous sequence of white cells vertically.  
+Group sum - the sum of all elements of one group.  
+Duplicate values - elements that occur in the same group more than once.  
+GA light version algorithm with default parameters.  
+GA pro version - algorithm with optimal parameters obtained during the experiment.  
 
 
